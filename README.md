@@ -1,4 +1,4 @@
 # JOGO MATA MOSQUITO
 
-segue link para testar o jogo
-mosquitomata.netlify.app
+
+Teste o jogo [Jogo mata mosquito](https://mosquitomata.netlify.app).
